@@ -1,0 +1,71 @@
+.b
+{
+background-color: aqua; 
+}
+
+.pageBorder
+{
+    width:750px;
+    height:1200px;
+    margin:0 auto;
+    padding:10px 25px;
+    border:1px solid #ccc;
+    background-image: url("dictionary.jpg");
+}
+
+.topPageTag
+{
+    background: lavender;
+    height:65px;
+    vertical-align:middle;
+    text-align: center;
+}
+
+.bodyColor
+{
+    background: lavender;
+}
+
+.searchMove
+{
+    display:inline-block;
+    
+}
+
+#search
+{
+     background-color: aqua;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#searchAll
+{
+    background-color: aqua;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#searchMove
+{
+    text-align: center;
+}
+
+.tryToCenter
+{
+    text-align: center;
+}
